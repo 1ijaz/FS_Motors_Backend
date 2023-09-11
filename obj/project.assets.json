@@ -3912,19 +3912,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ijazm\\.nuget\\packages\\": {}
+    "C:\\Users\\MHK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\FS\\FS_Motors\\FS_Motors\\FS_Motors.csproj",
+      "projectUniqueName": "C:\\Users\\MHK\\source\\repos\\FS_Motors_Backend\\FS_Motors.csproj",
       "projectName": "FS_Motors",
-      "projectPath": "F:\\FS\\FS_Motors\\FS_Motors\\FS_Motors.csproj",
-      "packagesPath": "C:\\Users\\ijazm\\.nuget\\packages\\",
-      "outputPath": "F:\\FS\\FS_Motors\\FS_Motors\\obj\\",
+      "projectPath": "C:\\Users\\MHK\\source\\repos\\FS_Motors_Backend\\FS_Motors.csproj",
+      "packagesPath": "C:\\Users\\MHK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MHK\\source\\repos\\FS_Motors_Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ijazm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MHK\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3998,7 +3998,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

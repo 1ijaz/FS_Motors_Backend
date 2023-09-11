@@ -16,7 +16,8 @@ namespace FS_Motors.Data
             optionsBuilder.UseSqlServer("Server=.\\SQLExpress;Database=Fs-Motors;Trusted_Connection=true;TrustServerCertificate=true;");
         }
 
-        public DbSet<User> Users { get; set; } 
-        public DbSet<Car> Cars { get; set; } 
+        public DbSet<User> Users { get; set; }
+        public DbSet<Car> Cars { get; set; }
+        public DbSet<CarModelType> carModelTypes { get; set; }
     }
 }
